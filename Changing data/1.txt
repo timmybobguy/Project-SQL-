@@ -1,0 +1,64 @@
+User Name: Eevee
+Work Order: WO-00251301
+Bluetooth Name: REAPER
+Date: 19-2-2019--13-14
+Antenna Test Type: Blade and/or Whip
+Signal Result Vodafone Blade: Fail
+Signal Result Vodafone Whip: Fail
+Signal Result Telstra Blade: Pass
+Signal Result Telstra Blade: Fail
+Signal Result External Modem: Fail
+RSSI Vodafone Blade: 0.0
+RSSI Vodafone Whip: 0.0
+RSSI Telstra Blade: 0.0
+RSSI Telstra Whip: 0.0
+RSSI External Modem: 0.0
+RSCP Vodafone Blade: 0.0
+RSCP Vodafone Whip: 0.0
+RSCP Telstra Blade: 0.0
+RSCP Telstra Whip: 0.0
+RSCP External Modem: 0.0
+RSRP Vodafone Blade: 0.0
+RSRP Vodafone Whip: 0.0
+RSRP Telstra Blade: 61.1333333333333
+RSRP Telstra Whip: 0.0
+RSRP External Modem: 0.0
+RSSI Threshold: 6.0
+RSSI Higher Threshold: 12.0
+RSCP Threshold: 15.0
+RSCP Higher Threshold: 30.0
+RSRP Threshold: 10.0
+RSRP Higher Threshold: 20.0
+Timeout Vodafone Blade: True
+Timeout Vodafone Whip: False
+Timeout Telstra Blade: False
+Timeout Telstra Whip: False
+Timeout External Modem: False
+Network Vodafone Blade: Unknown
+Network Vodafone Whip: Unknown
+Network Telstra Blade: "Telstra Mobile"
+Network Telstra Whip: Unknown
+Network External Modem: Unknown
+Raw Array Vodafone Blade: []
+Raw Array Vodafone Whip: []
+Raw Array Telstra Blade: ["58_12-6", "61_19-6", "61_30-6", "61_30-6", "62_30-6", "62_32-6", "62_32-6", "61_26-6", "61_26-6", "61_30-6", "61_29-6", "61_21-6", "62_27-6", "62_27-6", "61_31-6"]
+Raw Array Telstra Whip: []
+Raw Array External Modem: []
+BT Signal: [-59.0, -52.0]
+GPS Long :
+GPS Lat: 
+GPS Accuracy: kCLLocationAccuracyKilometer
+Device Type: iPad6,12
+SIM Vodafone: 89314404000248157530
+SIM Telstra: 89610180002243817774
+SIM External: 
+Serial No: SDS-196B
+Firmware No: GAT-17R3
+App Version No: 2.2.5
+Battery Level: 3.92
+Modem Type: EWM400
+Modem Status Vodafone Blade: Registeration Denied
+Modem Status Vodafone Whip: 
+Modem Status Telstra Blade: Registered, home network
+Modem Status Telstra Whip: 
+Modem Status External: 

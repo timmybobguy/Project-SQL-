@@ -1,0 +1,64 @@
+User Name: Snorlax
+Work Order: WO-00110610
+Bluetooth Name: ASSAM
+Date: 17-4-2018--10-41
+Antenna Test Type: Blade and/or Whip
+Signal Result Vodafone Blade: Fail
+Signal Result Vodafone Whip: Fail
+Signal Result Telstra Blade: Fail
+Signal Result Telstra Blade: Fail
+Signal Result External Modem: Pass
+RSSI Vodafone Blade: 0.0
+RSSI Vodafone Whip: 0.0
+RSSI Telstra Blade: 0.0
+RSSI Telstra Whip: 0.0
+RSSI External Modem: 9.0
+RSCP Vodafone Blade: 0.0
+RSCP Vodafone Whip: 0.0
+RSCP Telstra Blade: 0.0
+RSCP Telstra Whip: 0.0
+RSCP External Modem: 0.0
+RSRP Vodafone Blade: 0.0
+RSRP Vodafone Whip: 0.0
+RSRP Telstra Blade: 0.0
+RSRP Telstra Whip: 0.0
+RSRP External Modem: 0.0
+RSSI Threshold: 6.0
+RSSI Higher Threshold: 12.0
+RSCP Threshold: 15.0
+RSCP Higher Threshold: 30.0
+RSRP Threshold: 10.0
+RSRP Higher Threshold: 20.0
+Timeout Vodafone Blade: False
+Timeout Vodafone Whip: False
+Timeout Telstra Blade: False
+Timeout Telstra Whip: False
+Timeout External Modem: False
+Network Vodafone Blade: Unknown
+Network Vodafone Whip: Unknown
+Network Telstra Blade: Unknown
+Network Telstra Whip: Unknown
+Network External Modem: "vodafone AU"
+Raw Array Vodafone Blade: []
+Raw Array Vodafone Whip: []
+Raw Array Telstra Blade: []
+Raw Array Telstra Whip: []
+Raw Array External Modem: ["9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I"]
+BT Signal: [-91.0, -87.0, -81.0, -70.0, -86.0, -74.0, -76.0]
+GPS Long :152.984367638172
+GPS Lat: -27.4171041995673
+GPS Accuracy: kCLLocationAccuracyKilometer
+Device Type: iPad6,12
+SIM Vodafone: 
+SIM Telstra: 
+SIM External: 89314404000266723023
+Serial No: SDS-008C
+Firmware No: GAT-17R3
+App Version No: 2.2.5
+Battery Level: 3.94
+Modem Type: EWM1000
+Modem Status Vodafone Blade: 
+Modem Status Vodafone Whip: 
+Modem Status Telstra Blade: 
+Modem Status Telstra Whip: 
+Modem Status External: Registered, Roaming
