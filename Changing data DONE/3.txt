@@ -1,0 +1,64 @@
+User Name: Celebi
+Work Order: WO-00105349
+Bluetooth Name: DIXIE
+Date: 30-4-2018--14-48
+Antenna Test Type: Blade and/or Whip
+Signal Result Vodafone Blade: Fail
+Signal Result Vodafone Whip: Fail
+Signal Result Telstra Blade: Pass
+Signal Result Telstra Blade: Fail
+Signal Result External Modem: Fail
+RSSI Vodafone Blade: 0.0
+RSSI Vodafone Whip: 0.0
+RSSI Telstra Blade: 0.0
+RSSI Telstra Whip: 0.0
+RSSI External Modem: 0.0
+RSCP Vodafone Blade: 0.0
+RSCP Vodafone Whip: 0.0
+RSCP Telstra Blade: 27.2
+RSCP Telstra Whip: 0.0
+RSCP External Modem: 0.0
+RSRP Vodafone Blade: 0.0
+RSRP Vodafone Whip: 0.0
+RSRP Telstra Blade: 0.0
+RSRP Telstra Whip: 0.0
+RSRP External Modem: 0.0
+RSSI Threshold: 6.0
+RSSI Higher Threshold: 12.0
+RSCP Threshold: 15.0
+RSCP Higher Threshold: 30.0
+RSRP Threshold: 10.0
+RSRP Higher Threshold: 20.0
+Timeout Vodafone Blade: True
+Timeout Vodafone Whip: False
+Timeout Telstra Blade: False
+Timeout Telstra Whip: False
+Timeout External Modem: False
+Network Vodafone Blade: Unknown
+Network Vodafone Whip: Unknown
+Network Telstra Blade: "Telstra Mobile"
+Network Telstra Whip: Unknown
+Network External Modem: Unknown
+Raw Array Vodafone Blade: []
+Raw Array Vodafone Whip: []
+Raw Array Telstra Blade: ["28_31-2", "26_27-2", "26_27-2", "26_25-2", "26_25-2", "26_25-2", "25_27-2", "25_27-2", "28_31-2", "28_31-2", "28_31-2", "30_29-2", "30_29-2", "25_25-2", "25_25-2", "25_25-2", "26_29-2", "26_29-2", "26_29-2", "28_29-2", "28_29-2", "28_29-2", "28_29-2", "28_29-2", "29_31-2", "29_31-2", "28_31-2", "28_31-2", "28_31-2", "29_31-2"]
+Raw Array Telstra Whip: []
+Raw Array External Modem: []
+BT Signal: [-83.0, -74.0, -79.0]
+GPS Long :139.34259429587
+GPS Lat: -35.6776790181507
+GPS Accuracy: kCLLocationAccuracyKilometer
+Device Type: iPad Air
+SIM Vodafone: 89314404000266650267
+SIM Telstra: 89610180002249046930
+SIM External: 
+Serial No: SDS-061C
+Firmware No: GAT-17R3
+App Version No: 2.2.5
+Battery Level: 3.88
+Modem Type: EWM400
+Modem Status Vodafone Blade: Not Registered, searching for network
+Modem Status Vodafone Whip: 
+Modem Status Telstra Blade: Registered, home network
+Modem Status Telstra Whip: 
+Modem Status External: 

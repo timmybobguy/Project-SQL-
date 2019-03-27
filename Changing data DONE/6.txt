@@ -1,0 +1,64 @@
+User Name: Mewtwo
+Work Order: WO-00248593
+Bluetooth Name: CARIVOU
+Date: 19-2-2019--8-42
+Antenna Test Type: Blade and/or Whip
+Signal Result Vodafone Blade: Fail
+Signal Result Vodafone Whip: Fail
+Signal Result Telstra Blade: Pass
+Signal Result Telstra Blade: Fail
+Signal Result External Modem: Fail
+RSSI Vodafone Blade: 0.0
+RSSI Vodafone Whip: 0.0
+RSSI Telstra Blade: 0.0
+RSSI Telstra Whip: 0.0
+RSSI External Modem: 0.0
+RSCP Vodafone Blade: 0.0
+RSCP Vodafone Whip: 0.0
+RSCP Telstra Blade: 0.0
+RSCP Telstra Whip: 0.0
+RSCP External Modem: 0.0
+RSRP Vodafone Blade: 0.0
+RSRP Vodafone Whip: 0.0
+RSRP Telstra Blade: 46.0666666666667
+RSRP Telstra Whip: 0.0
+RSRP External Modem: 0.0
+RSSI Threshold: 6.0
+RSSI Higher Threshold: 12.0
+RSCP Threshold: 15.0
+RSCP Higher Threshold: 30.0
+RSRP Threshold: 10.0
+RSRP Higher Threshold: 20.0
+Timeout Vodafone Blade: True
+Timeout Vodafone Whip: False
+Timeout Telstra Blade: False
+Timeout Telstra Whip: False
+Timeout External Modem: False
+Network Vodafone Blade: Unknown
+Network Vodafone Whip: Unknown
+Network Telstra Blade: "Telstra Mobile"
+Network Telstra Whip: Unknown
+Network External Modem: Unknown
+Raw Array Vodafone Blade: []
+Raw Array Vodafone Whip: []
+Raw Array Telstra Blade: ["43_19-6", "43_19-6", "47_23-6", "47_23-6", "47_18-6", "47_18-6", "46_19-6", "46_19-6", "46_19-6", "44_12-6", "47_26-6", "47_23-6", "47_25-6", "47_28-6", "47_28-6"]
+Raw Array Telstra Whip: []
+Raw Array External Modem: []
+BT Signal: [-76.0, -85.0]
+GPS Long :152.971914761231
+GPS Lat: -27.0792295037818
+GPS Accuracy: kCLLocationAccuracyKilometer
+Device Type: iPad Air
+SIM Vodafone: 89314404000281178914
+SIM Telstra: 89610180002249045296
+SIM External: 
+Serial No: SDS-026C
+Firmware No: GAT-17R3
+App Version No: 2.2.5
+Battery Level: 3.88
+Modem Type: EWM400
+Modem Status Vodafone Blade: Registeration Denied
+Modem Status Vodafone Whip: 
+Modem Status Telstra Blade: Registered, home network
+Modem Status Telstra Whip: 
+Modem Status External: 

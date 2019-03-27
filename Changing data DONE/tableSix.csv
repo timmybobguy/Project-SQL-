@@ -1,0 +1,7 @@
+signalResult|rssi|rscp|rsrp|timeout|network|rawArray
+Fail|0.0|0.0|0.0|False|Unknown|[]
+Fail|0.0|0.0|0.0|False|Unknown|[]
+Fail|0.0|0.0|0.0|False|Unknown|[]
+Pass|9.0|0.0|0.0|False|"vodafone AU"|["9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I", "9_99-I"]
+Fail|0.0|0.0|0.0|False|Unknown|[]
+Fail|0.0|0.0|0.0|False|Unknown|[]

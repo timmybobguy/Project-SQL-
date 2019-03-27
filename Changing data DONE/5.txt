@@ -1,0 +1,64 @@
+User Name: Charizard
+Work Order: WO-00110925
+Bluetooth Name: DAIBRAVE
+Date: 26-4-2018--10-31
+Antenna Test Type: Blade and/or Whip
+Signal Result Vodafone Blade: Pass
+Signal Result Vodafone Whip: Fail
+Signal Result Telstra Blade: Pass
+Signal Result Telstra Blade: Fail
+Signal Result External Modem: Fail
+RSSI Vodafone Blade: 0.0
+RSSI Vodafone Whip: 0.0
+RSSI Telstra Blade: 0.0
+RSSI Telstra Whip: 0.0
+RSSI External Modem: 0.0
+RSCP Vodafone Blade: 12.0
+RSCP Vodafone Whip: 0.0
+RSCP Telstra Blade: 16.4
+RSCP Telstra Whip: 0.0
+RSCP External Modem: 0.0
+RSRP Vodafone Blade: 26.9230769230769
+RSRP Vodafone Whip: 0.0
+RSRP Telstra Blade: 30.7857142857143
+RSRP Telstra Whip: 0.0
+RSRP External Modem: 0.0
+RSSI Threshold: 6.0
+RSSI Higher Threshold: 12.0
+RSCP Threshold: 15.0
+RSCP Higher Threshold: 30.0
+RSRP Threshold: 10.0
+RSRP Higher Threshold: 20.0
+Timeout Vodafone Blade: False
+Timeout Vodafone Whip: False
+Timeout Telstra Blade: False
+Timeout Telstra Whip: False
+Timeout External Modem: False
+Network Vodafone Blade: "vodafone AU"
+Network Vodafone Whip: Unknown
+Network Telstra Blade: "Telstra Mobile"
+Network Telstra Whip: Unknown
+Network External Modem: Unknown
+Raw Array Vodafone Blade: ["42_43-1", "42_43-1", "99_99-0", "99_99-0", "99_99-0", "99_99-0", "99_99-0", "41_17-4", "41_17-4", "43_22-4", "45_24-4", "45_26-4", "45_23-4", "45_24-4", "45_24-4"]
+Raw Array Vodafone Whip: []
+Raw Array Telstra Blade: ["41_37-2", "41_39-2", "99_99-0", "99_99-0", "99_99-0", "37_22-4", "40_21-4", "43_26-4", "39_23-4", "38_9-4", "38_9-4", "38_7-4", "42_26-4", "37_26-4", "40_26-4", "39_26-4"]
+Raw Array Telstra Whip: []
+Raw Array External Modem: []
+BT Signal: [-76.0, -69.0, -69.0, -76.0, -73.0, -76.0]
+GPS Long :153.024695282944
+GPS Lat: -27.1806907654062
+GPS Accuracy: kCLLocationAccuracyKilometer
+Device Type: iPad7,2
+SIM Vodafone: 89314404000248233075
+SIM Telstra: 89610180002249047685
+SIM External: 
+Serial No: SDS-049C
+Firmware No: GAT-17R3
+App Version No: 2.2.5
+Battery Level: 3.69
+Modem Type: EWM400
+Modem Status Vodafone Blade: Registered, Roaming
+Modem Status Vodafone Whip: 
+Modem Status Telstra Blade: Registered, home network
+Modem Status Telstra Whip: 
+Modem Status External: 
