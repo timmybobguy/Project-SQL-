@@ -121,9 +121,9 @@ Create table WorkOrder
 /* QUERIES */
 
 /*Q10*/
-select COUNT(DISTINCT installerUsername) from Installer;
+select COUNT(DISTINCT installerUsername) as 'Distinct installers' from Installer;
 
 /*Q9*/
-select COUNT(DISTINCT modemType) from Device;
+select COUNT(DISTINCT modemType) as 'Distinct modem types' from Device;
 
 select * from workorder;
