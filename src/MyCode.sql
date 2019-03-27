@@ -13,31 +13,6 @@ drop table if exists TelstraTestResult;
 drop table if exists ExternalTestResult;
 drop table if exists Location;
 
-Create table WorkOrder
-(
-  workOrderNumber char(11) primary key,
-  workOrderDate date,
-  deviceId Integer,
-  installerId Integer,
-  telstraTestResultId Integer,
-  vodaphoneTestResultId Integer,
-  externalTestResultId Integer,
-  locationId Integer,
-  antennaTestType varchar(20),
-  rssiThreshold Decimal(10,2),
-  rssiHighThreshold Decimal(10,2),
-  rscpThreshold Decimal(10,2),
-  rscpHighThreshold Decimal(10,2),
-  rsrpThreshold Decimal(10,2),
-  rsrpHighThreshold Decimal(10,2),
-  foreign key (deviceId) references Device (deviceId),
-  foreign key (installerId) references Installer (installerId),
-  foreign key (telstraTestResultId) references TelstraTestResult (telstraTestResultId),
-  foreign key (vodaphoneTestResultId) references VodaphoneTestResult (vodaphoneTestResultId),
-  foreign key (locationId) references Location (locationId),
-  foreign key (externalTestResultId) references ExternalTestResult (externalTestResultId)
-) engine = Innodb;
-
 Create table Device
 (
   deviceId Integer auto_increment primary key,
@@ -116,6 +91,31 @@ Create table ExternalTestResult
   timeout bit,
   network varchar(20),
   rawArray text
+) engine = Innodb;
+
+Create table WorkOrder
+(
+  workOrderNumber char(11) primary key,
+  workOrderDate date,
+  antennaTestType varchar(20),
+  rssiThreshold Decimal(10,2),
+  rssiHighThreshold Decimal(10,2),
+  rscpThreshold Decimal(10,2),
+  rscpHighThreshold Decimal(10,2),
+  rsrpThreshold Decimal(10,2),
+  rsrpHighThreshold Decimal(10,2),
+  deviceId Integer,
+  installerId Integer,
+  telstraTestResultId Integer,
+  vodaphoneTestResultId Integer,
+  externalTestResultId Integer,
+  locationId Integer,
+  foreign key (deviceId) references Device (deviceId),
+  foreign key (installerId) references Installer (installerId),
+  foreign key (telstraTestResultId) references TelstraTestResult (telstraTestResultId),
+  foreign key (vodaphoneTestResultId) references VodaphoneTestResult (vodaphoneTestResultId),
+  foreign key (locationId) references Location (locationId),
+  foreign key (externalTestResultId) references ExternalTestResult (externalTestResultId)
 ) engine = Innodb;
 
 /* QUERIES */
