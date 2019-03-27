@@ -122,3 +122,6 @@ Create table ExternalTestResult
 
 /*Q10*/
 select COUNT(DISTINCT installerUsername) from Installer;
+
+/*Q9*/
+select COUNT(DISTINCT modemType) from Device;
