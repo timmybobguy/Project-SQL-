@@ -1,7 +1,0 @@
-workOrderNumber|workOrderDate|antennaTestType|rssiThreshold|rssiHighThreshold|rscpThreshold|rscpHighThreshold|rsrpThreshold|rsrpHighThreshold
-WO-00251301|19-2-2019--13-14|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
-WO-00104116|1-5-2018--8-5|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
-WO-00105349|30-4-2018--14-48|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
-WO-00110610|17-4-2018--10-41|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
-WO-00110925|26-4-2018--10-31|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
-WO-00248593|19-2-2019--8-42|Blade and/or Whip|6.0|12.0|15.0|30.0|10.0|20.0
